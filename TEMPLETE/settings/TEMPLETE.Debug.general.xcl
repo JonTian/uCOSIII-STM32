@@ -1,0 +1,13 @@
+"D:\Program Files\IAR Systems\Embedded Workbench 7.2\arm\bin\armproc.dll" 
+
+"D:\Program Files\IAR Systems\Embedded Workbench 7.2\arm\bin\armsim2.dll" 
+
+"C:\Users\Tina\Desktop\uCOSIII+uCGUI\TEMPLETE\Debug\Exe\TEMPLETE.out" 
+
+--plugin "D:\Program Files\IAR Systems\Embedded Workbench 7.2\arm\bin\armbat.dll" 
+
+--device_macro "D:\Program Files\IAR Systems\Embedded Workbench 7.2\arm\config\debugger\ST\STM32F1xx_XL.dmac" 
+
+
+
+
